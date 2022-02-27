@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivetiwar
-- 👀 I’m interested in code
-- 🌱 I’m currently learning the github setup and repo
+- 👀 I’m interested in coding and deployment
+- 🌱 I’m currently learning the github setup and repo.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
